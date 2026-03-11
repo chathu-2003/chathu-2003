@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Chathura Lakshan
 
-<!--
-**chathu-2003/chathu-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🚀 Full Stack Developer  
+📍 Sri Lanka  
 
-Here are some ideas to get you started:
+---------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently learning Spring Boot, React, Microservices
+- Working on Job Management System
+- Goal: Become a professional Software Engineer
+- Email: your-email@example.com
+
+---------------------------------
+
+## Tech Stack
+
+Java  
+Spring Boot  
+React  
+JavaScript  
+MySQL  
+Git  
+HTML  
+CSS  
+
+---------------------------------
+
+## Projects
+
+Countries API Project  
+Spring Boot backend + React frontend using REST Countries API
+
+Insurance Tracker System  
+JavaFX system for managing insurance policies and claims
+
+Job Management System  
+jQuery frontend + Spring Boot backend
+
+---------------------------------
+
+## GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=chathu-2003&show_icons=true
