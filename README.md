@@ -11,7 +11,7 @@
 - Currently learning Spring Boot, React, Microservices
 - Working on Job Management System
 - Goal: Become a professional Software Engineer
-- Email: your-email@example.com
+- Email: chathuralakshan0507@gmail.com
 
 ---------------------------------
 
